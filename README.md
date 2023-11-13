@@ -1,3 +1,3 @@
 # FormImgui
 
-Creater a folder vender and intasll imgui library
+Creater a folder vendor and intasll imgui library
