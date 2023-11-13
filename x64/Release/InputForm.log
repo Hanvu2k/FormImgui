@@ -1,0 +1,14 @@
+﻿  ImGuiFileDialog.cpp
+  main.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl2.cpp
+  imgui_impl_opengl3.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+     Creating library C:\Users\kazut\OneDrive\Máy tính\InputForm-imgui\x64\Release\InputForm.lib and object C:\Users\kazut\OneDrive\Máy tính\InputForm-imgui\x64\Release\InputForm.exp
+  Generating code
+  Finished generating code
+  InputForm.vcxproj -> C:\Users\kazut\OneDrive\Máy tính\InputForm-imgui\x64\Release\InputForm.exe
